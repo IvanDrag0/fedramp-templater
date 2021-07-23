@@ -1,7 +1,7 @@
 package opencontrols
 
 import (
-	"github.com/opencontrol/compliance-masonry/commands/docs/docx"
+	//"github.com/opencontrol/compliance-masonry/commands/docs/docx"
 	"github.com/opencontrol/compliance-masonry/models"
 	"github.com/opencontrol/fedramp-templater/common/origin"
 	"github.com/opencontrol/fedramp-templater/common/status"
