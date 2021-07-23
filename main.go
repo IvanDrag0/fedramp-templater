@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
-	"github.com/opencontrol/fedramp-templater/ssp"
-	"github.com/opencontrol/fedramp-templater/templater"
+	"github.com/IvanDrag0/fedramp-templater/opencontrols"
+	"github.com/IvanDrag0/fedramp-templater/ssp"
+	"github.com/IvanDrag0/fedramp-templater/templater"
 	"log"
 	"os"
 	"path/filepath"
