@@ -28,7 +28,7 @@ Use these steps if you just want to get started quickly and you have your Go env
 1. Go to the repository directory.
 
     ```bash
-    cd $GOPATH/src/github.com/opencontrol/fedramp-templater
+    cd $GOPATH/src/github.com/IvanDrag0/fedramp-templater
     ```
 
 1. _code code code_

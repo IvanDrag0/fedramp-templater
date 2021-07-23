@@ -1,4 +1,4 @@
-# FedRAMP Templater [![Build Status](https://travis-ci.org/opencontrol/fedramp-templater.svg?branch=master)](https://travis-ci.org/opencontrol/fedramp-templater)
+# FedRAMP Templater [![Build Status](https://travis-ci.org/IvanDrag0/fedramp-templater.svg?branch=master)](https://travis-ci.org/IvanDrag0/fedramp-templater)
 
 This is a command-line tool to take the [FedRAMP](http://www.fedramp.gov/) System Security Plan template and fill it with OpenControls data.
 
@@ -13,7 +13,7 @@ Requires [Go](https://golang.org/) 1.6+.
     For Ubuntu/Debian:
     ```bash
     sudo apt-get install libxml2-dev 
-    go get github.com/opencontrol/fedramp-templater
+    go get github.com/IvanDrag0/fedramp-templater
     ```
     
     For OsX (assuming you have [HomeBrew installed](http://brew.sh/))

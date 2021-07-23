@@ -3,9 +3,9 @@ package control
 import (
 	"errors"
 	"github.com/jbowtie/gokogiri/xml"
-	docxHelper "github.com/opencontrol/fedramp-templater/docx/helper"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
-	xmlHelper "github.com/opencontrol/fedramp-templater/xml/helper"
+	docxHelper "github.com/IvanDrag0/fedramp-templater/docx/helper"
+	"github.com/IvanDrag0/fedramp-templater/opencontrols"
+	xmlHelper "github.com/IvanDrag0/fedramp-templater/xml/helper"
 	"regexp"
 )
 

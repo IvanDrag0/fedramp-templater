@@ -2,7 +2,7 @@ package control
 
 import (
 	"fmt"
-	"github.com/opencontrol/fedramp-templater/reporter"
+	"github.com/IvanDrag0/fedramp-templater/reporter"
 	"io"
 	"strings"
 )

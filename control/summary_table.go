@@ -2,11 +2,11 @@ package control
 
 import (
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/common/origin"
-	"github.com/opencontrol/fedramp-templater/common/source"
-	"github.com/opencontrol/fedramp-templater/common/status"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
-	"github.com/opencontrol/fedramp-templater/reporter"
+	"github.com/IvanDrag0/fedramp-templater/common/origin"
+	"github.com/IvanDrag0/fedramp-templater/common/source"
+	"github.com/IvanDrag0/fedramp-templater/common/status"
+	"github.com/IvanDrag0/fedramp-templater/opencontrols"
+	"github.com/IvanDrag0/fedramp-templater/reporter"
 	"gopkg.in/fatih/set.v0"
 	"fmt"
 )

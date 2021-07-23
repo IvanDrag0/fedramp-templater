@@ -3,9 +3,9 @@ package control
 import (
 	"fmt"
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/common/origin"
-	"github.com/opencontrol/fedramp-templater/docx"
-	"github.com/opencontrol/fedramp-templater/docx/helper"
+	"github.com/IvanDrag0/fedramp-templater/common/origin"
+	"github.com/IvanDrag0/fedramp-templater/docx"
+	"github.com/IvanDrag0/fedramp-templater/docx/helper"
 	"gopkg.in/fatih/set.v0"
 )
 

@@ -1,4 +1,4 @@
-package: github.com/opencontrol/fedramp-templater
+package: github.com/IvanDrag0/fedramp-templater
 import:
 # using fork because of https://github.com/moovweb/gokogiri/pull/93#issuecomment-215582446
 - package: github.com/jbowtie/gokogiri

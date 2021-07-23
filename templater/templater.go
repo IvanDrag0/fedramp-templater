@@ -1,10 +1,10 @@
 package templater
 
 import (
-	"github.com/opencontrol/fedramp-templater/control"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
-	"github.com/opencontrol/fedramp-templater/reporter"
-	"github.com/opencontrol/fedramp-templater/ssp"
+	"github.com/IvanDrag0/fedramp-templater/control"
+	"github.com/IvanDrag0/fedramp-templater/opencontrols"
+	"github.com/IvanDrag0/fedramp-templater/reporter"
+	"github.com/IvanDrag0/fedramp-templater/ssp"
 	"log"
 	"fmt"
 )
